@@ -5,8 +5,8 @@
 </head>
 <body>
 <img src="Class Diagram (1).jpg">
-<p>In these class diagram it specify the rules of classes candidate.</p>
-<p>The table Posistion is the main entrance of all the User transactions like RIDERS,DRIVER AND ADMIN.
+<p>In these class diagram it specify the rules of classes candidate.<br>
+<br>The table Posistion is the main entrance of all the User transactions like RIDERS,DRIVER AND ADMIN.
 <br>Riders table where the communters can log in there personal information before they can use thies application processes.</br>
 <br>Payments table are connected with the passengers transactions,which help to guide where is the exact route and equivalent fare
 <br> that they need to paid for.before the time of departure and arrival.<br>The fare guide table are very useful information which 
