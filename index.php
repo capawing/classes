@@ -13,7 +13,7 @@
   we can find it here,<br>the selection methods and payments methods,which make us hassle free, safe and convient.
 <br>Driver table it contains the personal information about the Driver,where they can login and star monitoring about 
 the passenger status,<br>if they already verifying their ticket or not.the Admin management personnel he /she is the Authorized 
-  personnel to add user, update DSR table and can view the drivers ratings and verify riders tickets.</br></p>
+  personnel to add user, update DSR table and <br> can view the drivers ratings and verify riders tickets.</br></p>
 
 </body>
 </html>
